@@ -3,7 +3,7 @@ import numpy as np
 
 plt.figure()
 
-languages =['Python', 'SQL', 'Java', 'C++', 'JavaScript']
+languages = ['Python', 'SQL', 'Java', 'C++', 'JavaScript']
 pos = np.arange(len(languages))
 popularity = [56, 39, 34, 34, 29]
 
